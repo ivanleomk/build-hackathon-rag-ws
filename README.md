@@ -3,6 +3,8 @@
 This is a repo containing the code used for the workshop "Scaling beyond Vibe Checks" for the Build Together AI hackathon in Singapore.
 
 
+
+
 ## Installation
 
 1. Install the required dependencies in the `requirements.txt` file in a virtual environment. I recommend using `uv` by astral to install and configure these dependencies

@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Hammer",
+        "description": "A tool with a heavy metal head mounted at right angles at the end of a handle, used for jobs such as breaking things and driving in nails.",
+        "category": "Hand Tool"
+    },
+    {
+        "name": "Screwdriver",
+        "description": "A tool with a flattened, cross-shaped, or star-shaped tip that fits into the head of a screw to turn it.",
+        "category": "Hand Tool"
+    },
+    {
+        "name": "Electric Drill",
+        "description": "A power tool fitted with a cutting tool attachment or driving tool attachment, usually a drill bit or driver bit, used for boring holes in various materials or fastening various materials together.",
+        "category": "Power Tool"
+    },
+    {
+        "name": "Wrench",
+        "description": "A tool used for gripping and turning nuts, bolts, pipes, etc.",
+        "category": "Hand Tool"
+    },
+    {
+        "name": "Pliers",
+        "description": "A hand tool used to hold objects firmly, possibly developed from tongs used to handle hot metal in Bronze Age Europe.",
+        "category": "Hand Tool"
+    },
+    {
+        "name": "Circular Saw",
+        "description": "A power-saw using a toothed or abrasive disc or blade to cut different materials using a rotary motion spinning around an arbor.",
+        "category": "Power Tool"
+    },
+    {
+        "name": "Tape Measure",
+        "description": "A flexible ruler used to measure size or distance, consisting of a ribbon of cloth, plastic, fiber glass, or metal strip with linear-measurement markings.",
+        "category": "Measuring Tool"
+    },
+    {
+        "name": "Chisel",
+        "description": "A tool with a characteristically shaped cutting edge of blade on its end, for carving or cutting a hard material such as wood, stone, or metal.",
+        "category": "Hand Tool"
+    },
+    {
+        "name": "Level",
+        "description": "An instrument designed to indicate whether a surface is horizontal (level) or vertical (plumb).",
+        "category": "Measuring Tool"
+    },
+    {
+        "name": "Jigsaw",
+        "description": "A power tool used for cutting arbitrary curves, such as stenciled designs or other custom shapes, in wood, metal, or other materials.",
+        "category": "Power Tool"
+    },
+    {
+        "name": "Allen Wrench",
+        "description": "A tool used to drive bolts and screws with hexagonal sockets in their heads.",
+        "category": "Hand Tool"
+    },
+    {
+        "name": "Socket Wrench",
+        "description": "A wrench with a socket attached at one end, usually used to turn a fastener.",
+        "category": "Hand Tool"
+    },
+    {
+        "name": "Hacksaw",
+        "description": "A fine-toothed saw, originally and mainly made for cutting metal.",
+        "category": "Hand Tool"
+    },
+    {
+        "name": "Multimeter",
+        "description": "An electronic measuring instrument that combines several measurement functions in one unit.",
+        "category": "Measuring Tool"
+    },
+    {
+        "name": "Soldering Iron",
+        "description": "A hand tool used in soldering, which supplies heat to melt solder so that it can flow into the joint between two workpieces.",
+        "category": "Hand Tool"
+    },
+    {
+        "name": "Angle Grinder",
+        "description": "A handheld power tool used for grinding (abrasive cutting) and polishing.",
+        "category": "Power Tool"
+    }
+]

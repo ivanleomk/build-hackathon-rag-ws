@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Soldering Iron",
+        "description": "A hand tool used in soldering, which supplies heat to melt solder so that it can flow into the joint between two workpieces.",
+        "category": "Hand Tool"
+    },
+    {
+        "name": "Angle Grinder",
+        "description": "A handheld power tool used for grinding (abrasive cutting) and polishing.",
+        "category": "Power Tool"
+    },
+    {
+        "name": "Cordless Drill",
+        "description": "A power tool that uses rechargeable batteries to drill holes and drive screws.",
+        "category": "Power Tool"
+    },
+    {
+        "name": "Heat Gun",
+        "description": "A device used to emit a stream of hot air, usually at temperatures between 100°C and 550°C, which can be held by hand.",
+        "category": "Power Tool"
+    },
+    {
+        "name": "Garden Trowel",
+        "description": "A small hand tool used for digging, applying, smoothing, or moving small amounts of viscous or particulate material.",
+        "category": "Gardening Tool"
+    },
+    {
+        "name": "Pruning Shears",
+        "description": "A type of scissors for use on plants. They are strong enough to prune hard branches of trees and shrubs.",
+        "category": "Gardening Tool"
+    },
+    {
+        "name": "Garden Hoe",
+        "description": "A tool with a thin metal blade that is often used to break up soil, remove weeds, and harvest root crops.",
+        "category": "Gardening Tool"
+    }
+]
